@@ -1,10 +1,10 @@
-#pyQRL - The QR Creator Package 
+# pyQRL - The QR Creator Package 
 
-##Installation
+## Installation
 
 > pip install pyQRL
 
-##Usage
+## Usage
 
 >create a link qr
 > 
@@ -18,7 +18,7 @@
 > 
 > create a text qr
 
-##example
+## example
 ```python
     from pyQRL import *
     pyQRL(name="wifi")
