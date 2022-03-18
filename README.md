@@ -2,7 +2,8 @@
 
 ## Installation
 
-> pip install pyQRL
+> pip install downloads
+> curl https://raw.githubusercontent.com/liad07/pyQRL/main/pyQRL.py
 
 ## Usage
 
