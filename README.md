@@ -5,6 +5,8 @@
 > pip install downloads
 > 
 > curl https://raw.githubusercontent.com/liad07/pyQRL/main/pyQRL.py
+>
+> https://test.pypi.org/project/pyQRL/
 
 ## Usage
 
